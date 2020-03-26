@@ -754,7 +754,6 @@ URL-REGEX,^https?:\/\/ap(i|p)\.bilibili\.com\/((x\/v2|pgc)\/(search\/defaultword
 USER-AGENT,Weibo%20intl*
 USER-AGENT,TencentConnect*
 USER-AGENT,AliXAdSDK*
-USER-AGENT,neteasemusic*
 OR,((DOMAIN,news.l.qq.com), (DOMAIN,news.ssp.qq.com))
 OR,((DOMAIN,ct.xiaojukeji.com), (DOMAIN,gwp.xiaojukeji.com))
 OR,((DOMAIN,mobile.da.mgtv.com), (DOMAIN,mobile2.da.mgtv.com))
